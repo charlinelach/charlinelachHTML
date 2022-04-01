@@ -34,4 +34,14 @@ table {
 
 .accordion-button {
     width: 50%;
+    background-color: #FEFAE0;
+    border: .1em solid #EDE0D4;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
