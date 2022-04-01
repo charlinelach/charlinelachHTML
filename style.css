@@ -27,3 +27,11 @@ list-group-item {
 table {
     table-layout: fixed;
 }
+
+#cert {
+    text-align: center;
+}
+
+.accordion-button {
+    width: 50%;
+}
